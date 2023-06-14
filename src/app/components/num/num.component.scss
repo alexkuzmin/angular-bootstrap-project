@@ -1,0 +1,10 @@
+.num {
+  --color: #4b7729;
+  color: var(--color);
+  border: 2px solid var(--color);
+  font-weight: bold;
+  border-radius: 45px;
+  padding: 4px 20px;
+  display: inline-block;
+  font-size: 16px;
+}
